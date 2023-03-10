@@ -1,0 +1,2 @@
+# Slider
+Page with slider
